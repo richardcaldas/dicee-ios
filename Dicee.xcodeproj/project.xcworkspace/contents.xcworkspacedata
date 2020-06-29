@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Dicee-iOS13.xcodeproj">
+      location = "self:/Volumes/XDADOS/iOS/Jogo de Dados/Dicee.xcodeproj">
    </FileRef>
 </Workspace>
